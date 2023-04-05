@@ -1,5 +1,6 @@
 # Triangle_de_Pascal
 
+
 Bienvenue sur la page Github de la fonction "print_pascal_triangle"!
 
 Cette fonction a été développée pour afficher le célèbre triangle de Pascal en utilisant une hauteur donnée en argument. 
