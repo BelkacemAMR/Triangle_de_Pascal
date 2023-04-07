@@ -15,6 +15,6 @@ def print_pascal_triangle(n):
         # Affichage
         print()
 
-# test du programme
+# teste du programme:
 print_pascal_triangle(9)
 
